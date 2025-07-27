@@ -4,8 +4,6 @@ A fully responsive, modern, and interactive **Tour and Travel Agency Website** b
 
 ![Website Screenshot](images/g-1.jpg)
 
-<img width="1883" height="916" alt="image" src="https://github.com/user-attachments/assets/7d8d8859-6331-41db-9e8d-b3065b6db9ac" />
-
 ---
 
 ## 🔗 Live Demo
@@ -44,20 +42,16 @@ A fully responsive, modern, and interactive **Tour and Travel Agency Website** b
 
 🚀 Technologies Used
 HTML5 – Markup structure
-
 CSS3 – Styling and responsive design
-
 JavaScript – DOM interactions
-
 Swiper.js – Image & review sliders
-
 Font Awesome – Icons
 
 🛠️ Setup Instructions
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/26anshika/Travel.git
+cd Travel
 
 2. Open index.html in your browser, or host using GitHub Pages / local web server.
 
@@ -80,9 +74,13 @@ Connect with me on LinkedIn ()
 You can add UI screenshots here to showcase:
 
 Home page
+<img width="1623" height="882" alt="image" src="https://github.com/user-attachments/assets/4abe5dd9-6f32-45be-a08e-2dc20b160292" />
 
 Booking form
+<img width="1632" height="878" alt="image" src="https://github.com/user-attachments/assets/e59cb539-3eab-4b2d-9107-575f66ad0dd3" />
 
 Gallery section
+<img width="1636" height="862" alt="image" src="https://github.com/user-attachments/assets/766f8773-924a-4af7-8fe3-d433aaa1fdae" />
 
 Responsive mobile view
+<img width="616" height="822" alt="image" src="https://github.com/user-attachments/assets/6f5adbd7-1b8e-4507-b81d-18c538f9bab8" />
