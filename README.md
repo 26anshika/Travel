@@ -28,7 +28,7 @@ A fully responsive, modern, and interactive **Tour and Travel Agency Website** b
 ---
 
 ## 🗂️ Project Structure
-
+```plaintext
 📁 tour-and-travel-website/
 ├── 📁 css/
 │   └── style.css
@@ -38,7 +38,7 @@ A fully responsive, modern, and interactive **Tour and Travel Agency Website** b
 │   └── [All image and video assets]
 ├── index.html
 └── README.md
-
+```
 
 🚀 Technologies Used
 HTML5 – Markup structure
