@@ -68,19 +68,22 @@ Enhance accessibility (ARIA roles, semantic HTML).
 
 👩‍💻 Developer
 Developed by Anshika Yadav
-Connect with me on LinkedIn ()
 
 📸 Screenshots
-You can add UI screenshots here to showcase:
+
 
 Home page
+
 <img width="1623" height="882" alt="image" src="https://github.com/user-attachments/assets/4abe5dd9-6f32-45be-a08e-2dc20b160292" />
 
 Booking form
+
 <img width="1632" height="878" alt="image" src="https://github.com/user-attachments/assets/e59cb539-3eab-4b2d-9107-575f66ad0dd3" />
 
 Gallery section
+
 <img width="1636" height="862" alt="image" src="https://github.com/user-attachments/assets/766f8773-924a-4af7-8fe3-d433aaa1fdae" />
 
 Responsive mobile view
+
 <img width="616" height="822" alt="image" src="https://github.com/user-attachments/assets/6f5adbd7-1b8e-4507-b81d-18c538f9bab8" />
